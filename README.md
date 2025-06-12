@@ -14,7 +14,8 @@ It offers:
 ## Demo Screenshot
 
 ![WellBeing Screenshot](Wellbeing.png) 
-
+![WellBeing Screenshot1](Wellbeing(sc1).png) 
+![WellBeing Screenshot2](Wellbeing(sc2).png) 
 ---
 
 ## Features
